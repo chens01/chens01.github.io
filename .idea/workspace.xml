@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55d1dc3c-c734-4812-b92a-75bfb7be9e21" name="默认" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.md" />
-    </list>
+    <list default="true" id="55d1dc3c-c734-4812-b92a-75bfb7be9e21" name="默认" comment="" />
     <ignored path="chens01.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -295,12 +293,12 @@
       <updated>1510557076426</updated>
       <workItem from="1510557079225" duration="1399000" />
       <workItem from="1510666817210" duration="5862000" />
-      <workItem from="1510910314143" duration="1158000" />
+      <workItem from="1510910314143" duration="1209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8419000" />
+    <option name="totallyTimeSpent" value="8470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
